@@ -1,0 +1,17 @@
+endereco-texto
+telefone-ni
+salario-real
+cpf-ni
+preco-ni
+temperatura-ni
+casado-texto
+nascimento-data
+vacinado-texto
+preco_gasolina-real
+litros_gasolina-ni
+preco_pao-real-real
+total_compras-real
+idade-data
+data_contrato-real
+nivel_escolaridade-data
+número inteiro, real, texto, data ou booleana.
